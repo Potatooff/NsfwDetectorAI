@@ -2,11 +2,11 @@
 
 ## Made for educational and project purpose!
 
-**A super powerful and efficient nsfw image classification ai made to detect any type of nsfw made in C#**  
-**The model is left free to use by MIT license and will be coming with an api to it :D**  
+**A super powerful and efficient nsfw image classification model made in C# to detect any type of nsfw images**  
+**The model is free to use and will be coming with an api to it to be able to use it through others programming languages such as python:D**  
 
-**This model achieve an average score of exactly 0.8398 % from the test results and is less than 100mb**    
-**This model took around 2 hours to train on the 14000 images from the datasets**  
+**This model achieve an average score of exactly 0.8398 % from the test results and is less than 100mb (.mlnet format)**    
+**This model took less than 2 hours to train on 14000 images from the datasets using a I9 13980HX**  
 **The model contains 5 labels which are:**
 - Porn (Real life nsfw)  
 - Sexy (Considered inappropriated)  
@@ -15,6 +15,6 @@
 - Neutral (non nsfw data)  
 
 **This model is trained on half of the dataset found on huggingface below:**  
-**[Dataset not mine](https://huggingface.co/datasets/deepghs/nsfw_detect)**
+**[Dataset not mine](https://huggingface.co/datasets/deepghs/nsfw_detect)**  
 
 **Thank you :)**
