@@ -5,7 +5,7 @@ using System;
 using System.Linq;
 using System.IO;
 using System.Collections.Generic;
-namespace DeepLearning_ImageClassification_Binary
+namespace Prediction
 {
     public partial class MLModel1
     {

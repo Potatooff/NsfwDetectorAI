@@ -9,7 +9,7 @@ using Microsoft.ML.Data;
 using Microsoft.ML.Vision;
 using Microsoft.ML;
 
-namespace DeepLearning_ImageClassification_Binary
+namespace Prediction
 {
     public partial class MLModel1
     {
